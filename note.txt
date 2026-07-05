@@ -1,0 +1,11 @@
+chatgpt I'm a new software developer I want you to help me build a a header and hero section of a one pager personal portfolio website. There should be a photo in the hero section. The header should should have a logo and it should also be sticky.
+
+Create an ATS-Complaint resume/cv link in the hero section of the site.
+
+Add a project section to my personal portfolio website. I have completed HTML, CSS, Git and Github, Tailwind CSS and Vibe code and Vibe Engineering. Each of the project should have its own card box. Each card box should show a high level summary of what the project set out to to solve. Use blue and red colors. Please make the website very responsive, uss mobile first approach to build it.
+
+Use html and css, do not use inline styling. Use blue and red colors and make the website responsive.
+
+Build a detailed footer for my personal portfolio webbsite with social media handles.
+
+
